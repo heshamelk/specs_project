@@ -133,7 +133,7 @@ header .bar {
 }
 
 .landing .image {
-    background-image: url(/photo/lady.jpg);
+    background-image: url(./photo/lady.jpg);
     background-size: cover; 
 }
 .landing .trans-image .inner {
